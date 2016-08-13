@@ -1,3 +1,6 @@
+老外的一个版本 支持es2.3.3最新版
+安装姿势 bin/plugin install AIsaac08/bigdesk  #安装bigdesk 
+其中AIsaac08为原作者名字 也也可以改成 bin/plugin install ilaotan/bigdesk
 # Bigdesk
 
 Live charts and statistics for Elasticsearch cluster.
